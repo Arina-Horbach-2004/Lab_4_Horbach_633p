@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab_4_Horbach_633p", "Lab_4_Horbach_633p\Lab_4_Horbach_633p.csproj", "{D895BF7B-A6EB-4E2A-894C-F5F69A0CA4C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D895BF7B-A6EB-4E2A-894C-F5F69A0CA4C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D895BF7B-A6EB-4E2A-894C-F5F69A0CA4C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D895BF7B-A6EB-4E2A-894C-F5F69A0CA4C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D895BF7B-A6EB-4E2A-894C-F5F69A0CA4C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA4CA3F5-9EBF-49C9-95E6-38ADE2DE0A82}
+	EndGlobalSection
+EndGlobal
